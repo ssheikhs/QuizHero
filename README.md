@@ -4,6 +4,17 @@ QuizHero is a web-based quiz platform for classrooms and training sessions. Inst
 
 **Live demo:** [quiz-hero-ndci.vercel.app](https://quiz-hero-ndci.vercel.app)
 
+### Try it out
+
+Use these demo accounts to explore both sides of the app:
+
+| Role | Email | Password |
+|---|---|---|
+| Instructor | `ntn@quizhero.test` | `Demo!dd114fA1` |
+| Student | `sheikh@quizhero.test` | `Demo!dd114fA1` |
+
+Log in as the instructor to see the dashboard, analytics and quiz management, and copy an access code from **My Quizzes**. Then log in as the student (a private browser window works well) and join the quiz with that code.
+
 The project started as a PHP and MySQL course project for CSE479 (Web Programming) at East West University and was rebuilt with Next.js and MongoDB so it can be hosted on Vercel and MongoDB Atlas.
 
 ## Screenshots
